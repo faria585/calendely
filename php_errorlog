@@ -1,0 +1,15 @@
+[01-May-2025 07:52:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1', '1', '09:00:00', '17:00:00', 1)' at line 3 in /home/customer/www/rsoa72.rehan.school/public_html/calendly/signup.php:45
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/calendly/signup.php(45): mysqli->query('INSERT INTO ava...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/calendly/signup.php on line 45
+[01-May-2025 07:53:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2', '1', '09:00:00', '17:00:00', 1)' at line 3 in /home/customer/www/rsoa72.rehan.school/public_html/calendly/signup.php:45
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/calendly/signup.php(45): mysqli->query('INSERT INTO ava...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/calendly/signup.php on line 45
+[01-May-2025 07:55:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3', '1', '09:00:00', '17:00:00', 1)' at line 3 in /home/customer/www/rsoa72.rehan.school/public_html/calendly/signup.php:45
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/calendly/signup.php(45): mysqli->query('INSERT INTO ava...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/calendly/signup.php on line 45
